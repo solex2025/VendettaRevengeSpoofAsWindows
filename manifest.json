@@ -1,0 +1,7 @@
+{
+  "name": "Windows Desktop Spoof",
+  "description": "Reports this client to Discord as Windows 10 desktop.",
+  "authors": [{ "name": "You", "id": "0" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_monitor" }
+}
